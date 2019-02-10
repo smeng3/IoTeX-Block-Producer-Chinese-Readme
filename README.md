@@ -57,9 +57,9 @@ IoTeX全民节点为网络的运营和生态的建设提供了宝贵的资源和
 
  **Mac OS 操作系统** 可以点击 [这里](https://dl.google.com/go/go1.11.5.darwin-amd64.pkg) 下载安装
 
- **Win 操作系统** 可以点击   [这里] (https://dl.google.com/go/go1.11.5.windows-amd64.msi)下载安装
+ **Win 操作系统** 可以点击   [这里](https://dl.google.com/go/go1.11.5.windows-amd64.msi) 下载安装
 
- **Linux 操作系统** 可以点击 [这里] (https://dl.google.com/go/go1.11.5.linux-amd64.tar.gz)下载安装
+ **Linux 操作系统** 可以点击 [这里](https://dl.google.com/go/go1.11.5.linux-amd64.tar.gz) 下载安装
 
 	具体安装流程也可参考go官网网站: https://golong.org
 
