@@ -3,15 +3,17 @@
 
 ![MacDown logo](https://upload-images.jianshu.io/upload_images/15766012-4198f0aba2357a04.png)
 
-###什么是IoTeX全民节点竞选？
+### 什么是IoTeX全民节点竞选？
+
 IoTeX通过建立全民节点竞选机制，激励所有社区成员加入竞选和参与投票, 成为IoTeX生态的运营者，贡献者与利益共享者，共同维护IoTeX网络和推动社区发展。[原文链接](https://www.jianshu.com/p/5286298d3b27)
 
-###为什么要竞选成为IoTeX全民节点？
+### 为什么要竞选成为IoTeX全民节点？
+
 IoTeX全民节点为网络的运营和生态的建设提供了宝贵的资源和服务，都将获得奖励。IoTeX预留了100亿通证供应总量中的12%进入IoTeX节点奖励池。 整个奖励池共由三部分组成，包括12亿IOTX通证、全部网络交易手续费(Gas)以及来自IoTeX基金会和社区的贡献/捐赠。[原文链接](https://www.jianshu.com/p/5286298d3b27)
 
-##如何部署IoTeX节点？
+## 如何部署IoTeX节点？
 
-###目录
+### 目录
 
 &nbsp; [1. 安装运行环境](#1)
 
