@@ -67,7 +67,7 @@ IoTeX全民节点为网络的运营和生态的建设提供了宝贵的资源和
 
 <h3 id="2.1">2.1下载代码</h3>
 
-官方的代码文件由github托管保存，详情参阅: [https://github.com/iotexproject/iotex-core](https://github.com/iotexproject/iotex-core)
+官方的代码文件由Github托管保存，详情参阅: [https://github.com/iotexproject/iotex-core](https://github.com/iotexproject/iotex-core)
 
 安装流程非常简单：
 
@@ -78,7 +78,7 @@ IoTeX全民节点为网络的运营和生态的建设提供了宝贵的资源和
 		cd ~/go/src/github.com/iotexproject
 		git clone git@github.com:iotexproject/iotex-core.git
 		cd iotex-core
-**这里简单简单解释一下，mkdir 是新建一个文件夹，cd 命令是进入此文件夹，git clone 是将此文件下载**
+**这里简单简单解释一下，mkdir 是新建一个文件夹，cd 命令是进入此文件夹，git clone 是将代码从Github下载到本地**
 
 下载完成后，这里我们要开始正式运行这个项目了
 
